@@ -1,5 +1,3 @@
-# Learning-Solidity
-
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.7;
 
@@ -74,5 +72,4 @@ pragma solidity 0.8.7;
 //     function add(uint x, uint y) external pure returns(uint){
 //         return y + x;
 //     }
-
 // }
